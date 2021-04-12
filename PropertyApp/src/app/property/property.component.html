@@ -1,0 +1,22 @@
+<h2>Property Details</h2>
+<table class="center" border="2">
+  <tr>
+      <th>Address</th>
+      <th>Year Built</th>
+      <th>List Price $</th>
+      <th>Monthly Rent $</th>
+      <th>Gross Yield %</th>
+      <th>Action</th>
+  </tr>
+
+  <tr *ngFor="let property of properties">
+
+      <td style="text-align:left;">{{property.address.address1 +', '+ property.address.address2+' ' + property.address.city +', '+ property.address.country +', '+ property.address.county +
+          property.address.district + property.address.state +', '+property.address.zip}}</td>
+      <td align="center">{{property.yearBuilt}}</td>
+      <td align="right">{{property.listPrice | number : '1.2-2'}}</td>
+      <td align="right">{{property.monthlyRent | number : '1.2-2'}}</td>
+      <td align="right">{{property.grossYield | number : '1.2-2' }}</td>
+      <td><button (click) = "saveProperties($event,property);" [disabled]="property.exist" >Save</button></td>
+  </tr>
+</table>
