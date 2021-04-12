@@ -1,0 +1,9 @@
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Common\bin\Debug\netcoreapp3.1\Properties.Common.deps.json
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Common\bin\Debug\netcoreapp3.1\Properties.Common.dll
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Common\bin\Debug\netcoreapp3.1\Properties.Common.pdb
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Common\obj\Debug\netcoreapp3.1\Properties.Common.csprojAssemblyReference.cache
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Common\obj\Debug\netcoreapp3.1\Properties.Common.AssemblyInfoInputs.cache
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Common\obj\Debug\netcoreapp3.1\Properties.Common.AssemblyInfo.cs
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Common\obj\Debug\netcoreapp3.1\Properties.Common.csproj.CoreCompileInputs.cache
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Common\obj\Debug\netcoreapp3.1\Properties.Common.dll
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Common\obj\Debug\netcoreapp3.1\Properties.Common.pdb
