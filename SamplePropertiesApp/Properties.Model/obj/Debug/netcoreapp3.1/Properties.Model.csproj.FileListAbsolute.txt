@@ -1,0 +1,9 @@
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Model\bin\Debug\netcoreapp3.1\Properties.Model.deps.json
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Model\bin\Debug\netcoreapp3.1\Properties.Model.dll
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Model\bin\Debug\netcoreapp3.1\Properties.Model.pdb
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Model\obj\Debug\netcoreapp3.1\Properties.Model.csprojAssemblyReference.cache
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Model\obj\Debug\netcoreapp3.1\Properties.Model.AssemblyInfoInputs.cache
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Model\obj\Debug\netcoreapp3.1\Properties.Model.AssemblyInfo.cs
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Model\obj\Debug\netcoreapp3.1\Properties.Model.csproj.CoreCompileInputs.cache
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Model\obj\Debug\netcoreapp3.1\Properties.Model.dll
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\Properties.Model\obj\Debug\netcoreapp3.1\Properties.Model.pdb
