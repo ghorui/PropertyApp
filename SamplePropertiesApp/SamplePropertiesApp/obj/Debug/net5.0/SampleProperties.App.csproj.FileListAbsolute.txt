@@ -1,0 +1,6 @@
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\SamplePropertiesApp\obj\Debug\net5.0\SampleProperties.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\SamplePropertiesApp\obj\Debug\net5.0\SampleProperties.App.AssemblyInfoInputs.cache
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\SamplePropertiesApp\obj\Debug\net5.0\SampleProperties.App.AssemblyInfo.cs
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\SamplePropertiesApp\obj\Debug\net5.0\SampleProperties.App.csproj.CoreCompileInputs.cache
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\SamplePropertiesApp\obj\Debug\net5.0\SampleProperties.App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tghoriu\source\repos\SamplePropertiesApp\SamplePropertiesApp\obj\Debug\net5.0\SampleProperties.App.MvcApplicationPartsAssemblyInfo.cache
